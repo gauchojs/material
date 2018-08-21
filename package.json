@@ -1,0 +1,24 @@
+{
+  "name": "@gaucho/material-srcs",
+  "version": "0.0.1",
+  "description": "Extends components of @angular/material2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauchojs/material-srcs.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "components"
+  ],
+  "author": "Delmo <delmosaurio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauchojs/material-srcs/issues"
+  },
+  "homepage": "https://github.com/gauchojs/material-srcs#readme"
+}
